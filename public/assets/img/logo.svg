@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#CCCCCC;stroke-width:20}
+    .fil3 {fill:#0075AE}
+    .fil2 {fill:#227946}
+    .fil1 {fill:#DE8828}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_701597872">
+   <circle class="fil0 str0" cx="10500" cy="14850" r="9750"/>
+   <g>
+    <g>
+     <g>
+      <path class="fil1" d="M3473 13333c3798,-2025 3861,-4397 4074,-6116 149,2020 2336,3624 3528,5911 192,369 206,1081 -196,1453 -372,-2826 -5581,-1715 -7406,-1248z"/>
+      <ellipse class="fil1" transform="matrix(0.245919 -0.392178 0.392178 0.245919 5127.94 9971.8)" rx="2688" ry="2498"/>
+     </g>
+     <g>
+      <path class="fil2" d="M5486 20144c222,-4298 -1777,-5575 -3140,-6644 1808,913 4309,-133 6884,25 415,25 1033,381 1143,917 -2613,-1138 -4347,3898 -4888,5702z"/>
+      <ellipse class="fil2" transform="matrix(-0.209259 -0.412905 0.412905 -0.209259 3458.05 16993.7)" rx="2688" ry="2498"/>
+     </g>
+     <g>
+      <path class="fil3" d="M12489 21831c-3596,-2365 -5709,-1286 -7320,-650 1702,-1098 2064,-3785 3502,-5927 232,-345 851,-699 1369,-523 -2304,1679 1166,5721 2449,7100z"/>
+      <ellipse class="fil3" transform="matrix(-0.462043 -0.0282187 0.0282187 -0.462043 8745.71 21987.6)" rx="2688" ry="2498"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil1" d="M17593 16241c-3749,2114 -3757,4486 -3930,6210 -197,-2016 -2420,-3568 -3665,-5827 -201,-364 -232,-1076 162,-1457 438,2817 5620,1584 7433,1074z"/>
+      <ellipse class="fil1" transform="matrix(-0.236672 0.397826 -0.397826 -0.236672 16018 19640)" rx="2688" ry="2498"/>
+     </g>
+     <g>
+      <path class="fil2" d="M15422 9479c-122,4302 1907,5532 3294,6569 -1829,-871 -4305,234 -6883,136 -415,-16 -1041,-356 -1165,-890 2639,1077 4254,-3999 4753,-5815z"/>
+      <ellipse class="fil2" transform="matrix(0.218866 0.407894 -0.407894 0.218866 17523.1 12580.9)" rx="2688" ry="2498"/>
+     </g>
+     <g>
+      <path class="fil3" d="M8381 7956c3650,2280 5737,1152 7333,479 -1676,1137 -1975,3832 -3362,6007 -224,350 -834,718 -1357,555 2264,-1733 -1299,-5692 -2614,-7041z"/>
+      <ellipse class="fil3" transform="matrix(0.462576 0.0173967 -0.0173967 0.462576 12120 7712.17)" rx="2688" ry="2498"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
